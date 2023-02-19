@@ -18,6 +18,6 @@ Files:
 
 7. Compare_Sentiments.ipynb : in this notebook we compare the sentiment labels given manually by each team member. We calculate the percentage of articles on which these manual labels agreed with the sentiments given by TextBlob and VADER.
 
-8. Presentation_slides.pdf : the slides used for the presentation.
+8. Presentation_slides.pdf : the slides used for the presentation in our research project.
 
 9. Combined_Sentiment_Topics.ipynb : includes the combined analysis of sentiment and topic. In this notebook, we give label names to the topics, and then we plot the sentiment for each topic that we identified per outlet.
